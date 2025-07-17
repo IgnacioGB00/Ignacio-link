@@ -69,6 +69,7 @@ a img{
     }
     header{
         background-image: url("../img/fondo.jpg");
+        height: 100lvh;
         background-position: center;
         width: 50%; /* La imagen ocupará el 50% del ancho del contenedor */
         justify-content: center;
